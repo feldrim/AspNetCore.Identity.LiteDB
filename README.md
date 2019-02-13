@@ -1,3 +1,5 @@
+[![DepShield Badge](https://depshield.sonatype.org/badges/owner/repository/depshield.svg)](https://depshield.github.io)
+
 # AspNetCore.Identity.LiteDB
 A LiteDB provider for ASP.NET Core Identity framework.
 
